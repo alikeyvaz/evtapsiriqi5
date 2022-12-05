@@ -1,0 +1,15 @@
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/bin/Debug/net6.0/lesson5real
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/bin/Debug/net6.0/lesson5real.deps.json
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/bin/Debug/net6.0/lesson5real.runtimeconfig.json
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/bin/Debug/net6.0/lesson5real.dll
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/bin/Debug/net6.0/lesson5real.pdb
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.csproj.AssemblyReference.cache
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.AssemblyInfoInputs.cache
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.AssemblyInfo.cs
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.csproj.CoreCompileInputs.cache
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.dll
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/refint/lesson5real.dll
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.pdb
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/lesson5real.genruntimeconfig.cache
+/Users/alikeyvaz/Projects/lesson5real/lesson5real/obj/Debug/net6.0/ref/lesson5real.dll
